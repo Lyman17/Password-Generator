@@ -36,8 +36,10 @@ I also spent 1 hours time with my tutor Alex Gonzalez at the UofU in order to fu
 Structure of Read ME was researched & formatted by using the following link:
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
-## Screenshot of Page
+## Screenshot & link to Page
+https://lyman17.github.io/Password-Generator/
 
+![Alt text](<Screenshot (8).png>)
 
 
 
